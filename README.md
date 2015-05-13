@@ -1,8 +1,13 @@
 
+This is an updated version of this demo specifically for an EMC Developer Day Training Session
 
+<<<<<<< Updated upstream
 This is a specific version of this demo for EMC Developer Day Exercise
 
 This is the monolithic version of this demo. 
+=======
+This is the monolithic version of this demo.
+>>>>>>> Stashed changes
 For the micro-services version, please see the microservices branch: https://github.com/Pivotal-Field-Engineering/PCF-demo/tree/micro-services
 
 PCF Demo
